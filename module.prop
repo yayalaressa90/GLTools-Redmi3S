@@ -1,0 +1,6 @@
+id=gltools
+name=GLTools
+version=4.01
+versionCode=401
+author=n0n3m4 & @yohannes_aw
+description=A custom OpenGL ES driver for Redmi 3S (Land)
