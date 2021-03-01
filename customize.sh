@@ -6,7 +6,6 @@
   
 # Start
   PKG=com.n0n3m4.gltools
-  if ! pm list packages | grep -Eq $PKG; then
   ui_print "- Cleaning folders..."
   rm -rf /data/app/$PKG*
   rm -rf /data/data/$PKG/cache
